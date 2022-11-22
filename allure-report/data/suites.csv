@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Nov 22 20:11:49 IST 2022","Tue Nov 22 20:12:02 IST 2022","12917","","","","","","logout test",""
+"passed","Tue Nov 22 20:11:21 IST 2022","Tue Nov 22 20:11:32 IST 2022","11108","","","","","","sign up test",""
+"failed","Tue Nov 22 20:10:13 IST 2022","Tue Nov 22 20:10:30 IST 2022","17102","","","","","","loops test",""
+"failed","Tue Nov 22 20:10:47 IST 2022","Tue Nov 22 20:11:05 IST 2022","17673","","","","","","add items to cart",""
+"passed","Tue Nov 22 20:09:42 IST 2022","Tue Nov 22 20:09:55 IST 2022","12277","","","","","","Cart items ",""
